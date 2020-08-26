@@ -12,8 +12,8 @@ public class TestCalc {
 	public void testCalc1() {
 		assertEquals(3, new Calc().add());
 }
-/**	public void testCalc2() {
+	public void testCalc2() {
 		assertEquals(1, new Calc().subtract());
-}**/
+}
 
 }
