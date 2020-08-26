@@ -16,7 +16,7 @@ public class Calc {
     public int subtract() {
 	int numthr = 3;
 	int numfou = 4;
-	int sumsub = numfou + numthr;
+	int sumsub = numfou - numthr;
 	return sumsub;
 }
 
